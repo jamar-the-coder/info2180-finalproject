@@ -1,0 +1,37 @@
+
+
+form div{
+    padding: 8px;
+    display: flex;
+    flex-direction: column;
+}
+
+input{
+    border-radius: 5px;
+    border-color:  rgb(231, 231, 231);
+    outline-style: none;
+    width: 70%;
+    height: 40px;
+}
+textarea{
+    border-radius: 5px;
+    border-color:  rgb(231, 231, 231);
+    outline-style: none;
+    width: 70%;
+    height: 200px;
+}
+select{
+    border-radius: 5px;
+    border-color:  rgb(231, 231, 231);
+    outline-style: none;
+    width: 70%;
+    height: 40px;
+}
+
+#submit{
+    height:40px;
+    width: 180px;
+    border-style: none;
+    background-color: blue;
+    color: white;
+}
